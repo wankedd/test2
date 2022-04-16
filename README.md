@@ -3,3 +3,9 @@
 latihan git
 
 tambah
+<<<<<<
+>>>>>>
+
+konflik
+<<<<<<<
+>>>>>>>
